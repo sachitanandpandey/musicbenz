@@ -4,6 +4,7 @@ after that using another api to get  average word count in song lyrics
 
 example : 
 python main.py
+
 Input artist name 
 <add artistname > e.g : Coldplay 
 
